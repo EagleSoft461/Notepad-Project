@@ -1,5 +1,5 @@
 # Notepad-Project
-Bu uygulama bir metin düzenleyicisidir şu an ki ilk versiyonudur 
+Bu proje, Python'ın tkinter Kütüphanesini kullanılarak geliştirilmiş, bir masaüstü Metin düzenleyicisidir.
 
 ## 📝 Hakkında
 
@@ -13,33 +13,25 @@ Bu proje, basit bir metin düzenleyici olan EagNotepad uygulamasının bir masa�
 - Kullanıcı dostu arayüz
 - Hızlı ve hafif performans
 
-## 🚀 Başlangıç
+### Kurulum ve Çalıştırma🛠️📥📦
+Bu projeyi çalıştırmak için iki seçeneğiniz bulunmaktadır:
 
-Bu uygulamayı yerel makinenizde çalıştırabilmek için aşağıdaki adımları izleyin.
-
-### Önkoşullar
-
-Bu projeyi derlemek ve çalıştırmak için aşağıdaki yazılımların sisteminizde yüklü olması gerekmektedir:
-- 
-- <Varsa diğer bağımlılıklar...>
-
-### Kurulum
-
-1.  Bu depoyu yerel makinenize klonlayın:
+#### A. Koddan Çalıştırma
+1.  **Gereksinimleri Yükleme:** Kivy kütüphanesini kurun:
+    ```bash
+    pip install tkinter
+    ```
+2.  **Projeyi Klonlama:** Projeyi GitHub'dan kendi bilgisayarınıza indirin:
     ```bash
     git clone [https://github.com/EagleSoft461/Notepad-Project.git](https://github.com/EagleSoft461/Notepad-Project.git)
     ```
-2.  Proje dizinine gidin:
+3.  **Çalıştırma:** Proje klasörüne gidin ve uygulamayı çalıştırın:
     ```bash
     cd Notepad-Project
+    python main.py
     ```
-3.  Gerekli bağımlılıkları yükleyin:
-    ```bash
-    <Örneğin: pip install -r requirements.txt veya npm install>
-    ```
+### B. Uygulamayı İndirme (Windows İçin)
+Uygulamanın Python ve Kivy'ye ihtiyaç duymadan çalışabilen derlenmiş versiyonunu (".exe" dosyasını) doğrudan indirebilirsiniz.
 
-### Çalıştırma
-
-Uygulamayı başlatmak için aşağıdaki komutu kullanın:
-```bash
-<Örneğin: python main.py veya java -jar Notepad.jar>
+* Uygulamayı indirmek için **[Buraya Tıklayın](https://github.com/EagleSoft461/Calculator-Projects/releases/tag/v1.0.0)**.
+* İndirdiğiniz dosyayı çalıştırarak hesap makinesini kullanmaya başlayabilirsiniz.
