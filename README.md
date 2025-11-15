@@ -58,4 +58,4 @@ If you enjoy using **EagNotepad** and want to support my work, you can buy me a 
 
 Eğer **EagNotepad**’i kullanmayı seviyorsanız ve çalışmalarımı desteklemek isterseniz, bana bir kahve ısmarlayabilirsiniz! Desteğiniz uygulamanın gelişmesine yardımcı olur.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](buymeacoffee.com/Eaglesss)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/Eaglesss)
